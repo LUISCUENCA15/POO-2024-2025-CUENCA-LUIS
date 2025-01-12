@@ -49,6 +49,3 @@ if __name__ == "__main__":
     usuario1.solicitar_prestamo(libro1)  # Luis intenta solicitar "1984" nuevamente
     usuario1.devolver_libro(libro1)      # Luis devuelve "1984"
     usuario1.solicitar_prestamo(libro2)  # Luis solicita "El Principito"
-
-
-
