@@ -14,6 +14,6 @@ class Persona:
         print(f'Hola, mi nombre es {self.nombre} y tengo {self.edad} años.')
 
 # Ejemplo de uso
-persona_luis_Cuenca = Persona('Luis Cuenca', 35)  # Se crea un objeto de la clase Persona
+persona_luis_Cuenca = Persona('Luis Cuenca', 36)  # Se crea un objeto de la clase Persona
 persona_luis_Cuenca.presentarse()           # La persona se presenta
 del persona_luis_Cuenca                      # Se fuerza la destrucción del objeto
