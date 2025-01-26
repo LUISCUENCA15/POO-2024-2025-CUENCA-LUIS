@@ -10,7 +10,7 @@ class Persona:
         print(f'El objeto Persona {self.nombre} ha sido destruido.')
 
     def presentarse(self):
-        # Método para que la persona se presente
+        # Metodo para que la persona se presente
         print(f'Hola, mi nombre es {self.nombre} y tengo {self.edad} años.')
 
 # Ejemplo de uso
