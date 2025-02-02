@@ -25,3 +25,4 @@ area = calcular_area_rectangulo(base, altura)
 
 # Mostrar el resultado
 print(f"El área del rectángulo con base {base} y altura {altura} es: {area} unidades cuadradas.")
+11
